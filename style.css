@@ -65,3 +65,14 @@ ul{
   margin-top: 4px;
 
 }
+footer{
+color: var(--text-color-on-bg);
+margin-top :28px;
+text-align: center;
+padding-bottom: 48px;
+font-size: 16px;
+}
+footer img{
+  margin-inline: 4px;
+  vertical-align: middle;
+}
